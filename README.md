@@ -1,5 +1,5 @@
 # AsthmaAndInsurance
 Explores asthma prevalence and remote patient monitoring (RPM) insurance coverage.
-![choropleth](asthma_chorpleth.png)
-![age](age_asthma.png)
-![state](state_asthma.png)
+![choropleth](asthma_chorpleth.jpg)
+![age](age_asthma.jpg)
+![state](state_asthma.jpg)
