@@ -1,0 +1,51 @@
+State,State Code,99454 Coverage: Medicare,99454 Coverage: Medicaid,99454 Coverage: Top Private Insurance,99454 Coverage: Second Private Insurance,Sum
+California,CA,1,1,0,0,2
+Texas,TX,1,0,1,1,3
+New York,NY,1,1,1,0,3
+Florida,FL,1,0,0,1,2
+Pennsylvania,PA,1,0,0,0,1
+Ohio,OH,1,1,0,0,2
+Michigan,MI,1,1,1,0,3
+Illinois,IL,1,0,0,1,2
+Georgia,GA,1,0,0,0,1
+North Carolina,NC,1,1,1,1,4
+New Jersey,NJ,1,1,0,0,2
+Massachusetts,MA,1,0,0,0,1
+Washington,WA,1,1,0,0,2
+Virginia,VA,1,1,1,1,4
+Tennessee,TN,1,0,0,1,2
+Arizona,AZ,1,1,1,0,3
+Indiana,IN,1,1,0,1,3
+Wisconsin,WI,1,1,1,0,3
+Missouri,MO,1,0,0,1,2
+Colorado,CO,1,0,1,0,2
+Maryland,MD,1,0,1,1,3
+Kentucky,KY,1,0,0,0,1
+South Carolina,SC,1,0,0,1,2
+Minnesota,MN,1,0,1,0,2
+Oregon,OR,1,1,0,0,2
+Alabama,AL,1,0,0,1,2
+Oklahoma,OK,1,0,1,1,3
+Connecticut,CT,1,0,0,1,2
+Louisiana,LA,1,1,0,1,3
+Utah,UT,1,0,0,0,1
+Nevada,NV,1,0,1,0,2
+Iowa,IA,1,0,0,1,2
+Kansas,KS,1,0,0,0,1
+Arkansas,AR,1,0,1,1,3
+Mississippi,MS,1,0,1,1,3
+West Virginia,WV,1,0,0,1,2
+New Mexico,NM,1,0,1,0,2
+Idaho,ID,1,0,0,0,1
+New Hampshire,NH,1,0,0,1,2
+Maine,ME,1,0,0,0,1
+Nebraska,NE,1,0,0,1,2
+Rhode Island,RI,1,0,0,1,2
+Hawaii,HI,1,0,0,0,1
+Montana,MT,1,0,0,1,2
+Delaware,DE,1,0,0,0,1
+Vermont,VT,1,0,0,1,2
+South Dakota,SD,1,0,0,0,1
+North Dakota,ND,1,0,0,0,1
+Alaska,AK,1,0,0,0,1
+Wyoming,WY,1,0,1,0,2

@@ -1,0 +1,203 @@
+US States,Total Asthma Population,Adult Asthma Population Number,Adult Asthma Population Percent,"Child Asthma 
+Population Number","Child Asthma 
+Population Percent","Total Asthma 
+Attacks Number","Total Asthma 
+Attacks Percent",Adult Asthma Attacks Number,Adult Asthma Attacks Percent,Child Asthma Attacks Number,Child Asthma Attacks Percent,Total Medicare Beneficiaries,Asthma Patients with Medicare Number,Asthma Patients with Medicare Percent,"Medicaid Coverage Controller 
+Medication","Medicaid Coverage Medical 
+Devices","Medicaid Coverage Lung Function 
+Testing","Medicaid Coverage Self Mgmt 
+Education",99454 Coverage Medicare,99454 Coverage Medicaid,99454 Coverage Top Private Insurance,99454 Coverage Second Private Insurance,Largest Medicare Advantage Insurer Name,Largest Medicare Advantage Insurer Market Share,Second Largest Medicare Advantage Insurer Name,Second Largest Medicare Advantage Insurer Market Share,Largest Medicaid MCO Plan Name,Largest Medicaid MCO Plan Market Share,Second Largest Medicaid MCO Plan Name,Second Largest Medicaid MCO Plan Market Share,Largest Private Health Insurer Name,Largest Private Health Insurer Market Share,Largest Private Health Insurer Coverage,Second Largest Private Health Insurer Name,Second Largest Private Health Insurer Market Share,Second Largest Private Health Insurer Coverage,
+California,"3,313,415","2,848,466",9.3%,"464,949",5.3%,"1,590,439",48%,"1,321,688",46.4%,"247,353",53.2%,"6,499,203","389,952",6%,Yes (21),"Yes (2)
+Varied (1)",Varied (2),Varied,Yes,Yes,Kaiser: Not specified,Blue Shield (BCBS): Not specified,Kaiser,44%,UnitedHealth,17%,L.A Care Health Plan,17.98%,Health Net Community Solutions (Centene),11.50%,Kaiser ,48%,Kaiser covers nebulizers and supplies for pediatric asthma.,Blue Shield,17%,Not specified,"
+
+"
+Texas,"2,148,148","1,617,392",7.4%,"530,756",7.1%,"975,259",45.4%,"722,974",44.7%,"250,517",47.2%,"4,386,864","307,080",7%,Yes (21),Yes (3),Varied (2),Varied,Yes,No,BCBS (TX): Yes,UnitedHealth: Yes,UnitedHealth,50%,Humana ,18%,Superior HealthPlan (Centene) ,24.63%,Amerigroup Texas (Elevance),19.08%,HCSC (BCBS Texas),38%,"BCBS Texas provides coverage for codes 99454, 99091, and 98976.",UnitedHealth,20%,Not specified,"
+
+"
+New York,"1,778,160","1,449,094",9.5%,"329,066",8.0%,"789,503",44.4%,"620,212",42.8%,"162,229",49.3%,"3,705,610","259,393",7%,"Yes (9)
+Varied (12)",Varied (3),"Varied (1)
+No (1)",Yes,Yes,Yes (only with HD Modifer),UnitedHealth: Yes    ,Anthem: Not specified,UnitedHealth,24%,HealthFirst,13%,Fidelis Care (Centene),32.14%,HealthFirst,22.98%,UnitedHealth,28%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.",Anthem,17%,Not specified,"
+
+"
+Florida,"1,572,585","1,276,625",7.3%,"295,960",6.9%,"798,873",50.8%,"653,632",51.2%,"146,796",49.6%,"4,803,848","336,269",7%,"Yes (18)
+No (3)",Yes (3),"Yes (1)
+Varied (1)",Yes,Yes,No,Florida Blue: No,UnitedHealth: Yes,Humana ,32%,UnitedHealth,28%,Sunshine State Health Plan (Centene),42.72%,Humana Medical Plan,16.94%,BCBS FL,38%,Both Follow medicare CPT codes for RPM coverage,UnitedHealth,19%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Pennsylvania,"1,272,907","1,032,246",10.2%,"240,661",9.0%,"603,358",47.4%,"467,607",45.3%,"130,197",54.1%,"2,805,431","196,380",7%,Yes (21),Yes (3),"Yes (1)
+Varied (1)",Yes,Yes,No,Highmark (BCBS): No,CVS Health: Not Specified ,CVS Health ,26%,Highmark,19%,UPMC Health Plan,19.28%,Keystone First (Independence Health Group),18.45%,Highmark (BCBS),29%,Does not cover,CVS Health,19%,Not specified,"
+
+"
+Ohio,"1,080,631","895,631",9.9%,"185,000",7.1%,"480,881",44.5%,"398,556",44.5%,"82,880",44.8%,"2,407,792","144,468",6%,Yes (21),"Yes (2)
+Varied (1)",Yes (2),Varied,Yes,Yes,Anthem (BCBS): Not specified,Medical Mutual: Not specified ,Anthem,26%,CVS Health,24%,CareSource,49.34%,Buckeye Health Plan (Centene),15.78%,Anthem,34%,Not specified,Medical Mutual,26%,Not specified,"
+
+"
+Michigan,"1,027,498","859,534",11.0%,"167,964",7.8%,"437,714",42.6%,"361,864",42.1%,"74,240",44.2%,"2,130,074","149,105",7%,"Yes (19)
+Varied (1)
+No (1)","Yes (2)
+Varied (1)",Varied (2),Varied,Yes,Yes (Nursing Midwifes Only),Blue Care Network of Michigan: Yes,Spectrum Health Group: Not Specified ,BCBS MI,49%,Spectrum Health,19%,Meridian Health Plan (Centene),25.15%,Molina Healthcare,17.64%,BCBS MI ,68%,"BCBS MI provides coverage for codes 99453, 99454, 99457, 99458, and 99091.",Spectrum Health,12%,Not Specified,"
+
+"
+Illinois,"1,008,847","832,244",8.5%,"176,603",6.3%,"462,052",45.8%,"360,362",43.3%,"94,483",53.5%,"2,287,329","137,240",6%,"Yes (16)
+Varied (5)",Varied (3),Yes (2),Varied,Yes,No ,HCSC (BCBS IL): No,UnitedHealth: Yes,UnitedHealth,33%,Humana ,26%,Meridian Health Plan (Centene),31.16%,BCBS Illinois,24.64%,HCSC (BCBS Illinois),61%,Does not cover,UnitedHealth,14%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Georgia,"979,245","736,912",9.0%,"242,333",9.6%,"477,382",48.75%,"335,295",45.5%,"134,979",55.7%,"1,808,944","108,537",6%,Yes (21),Yes (3),Yes (2),Yes,Yes,No,Anthem: Not specified,CVS Health: Not Specified ,UnitedHealth,36%,Humana ,27%,Peach State Health Plan (Centene),51.10%,Amerigroup Community Care (Elevance),27.74%,Anthem,38%,Not specified,CVS Health,14%,Not Specified,"
+
+"
+North Carolina,"776,970","645,784",7.8%,"131,186",5.7%,"382,269",49.2%,"308,039",47.7%,"68,872",52.5%,"2,077,983","124,679",6%,Yes (21),Varied (3),Varied (2),Varied,Yes,Yes,BCBS (NC): Yes,UnitedHealth: Yes,Humana ,40%,UnitedHealth,32%,Healthy Blue NC,26.17%,UnitedHealthcare Community Plan of NC,21.73%,BCBS NC,53%,"BCBS NC provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.",UnitedHealth,17%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+New Jersey,"722,060","598,649",8.7%,"123,411",6.1%,"309,764",42.9%,"239,460",40%,"61,705",50%,"1,656,791","115,975",7%,"Yes (10)
+Varied (11)",Yes (3),"Yes (1)
+Varied (1)",Varied,Yes,Yes,Horizon (BCBS): No,CVS Health: Not Specified ,CVS Health ,40%,UnitedHealth,31%,Horizon NJ Health,55.98%,UnitedHealthcare Community Plan of NJ,19.79%,Horizon BCBS NJ,41%,"Horizon BCBS NJ provides coverage for 99453, 99454, 99457, and 99458 ONLY for diagnosed COPD members. Coverage is NOT provided for anyone else.",CVS Health,25%,Not Specified,"
+
+"
+Massachusetts,"698,294","592,048",10.7%,"106,246",7.8%,"293,982",42.1%,"239,187",40.4%,"51,529",48.5%,"1,374,243","96,197",7%,"Yes (18)
+Varied (3)",Yes (3),Yes (2),Yes,Yes,No,BCBS (MA): No,Point32Health: Not specified,Point32Health,36%,UnitedHealth,28%,MassHealth Accountable Care Partnership Plan ,32.18%,MassHealth Managed Behavioral Health Vendor,30.11%,BCBS MA,35%,Does not cover,Point32Health,34%,Not Specified,"
+
+"
+Washington,"682,017","579,774",9.6%,"102,243",6.1%,"315,092",46.2%,"245,824",42.4%,"66,049",64.6%,"1,431,948","85,917",6%,Yes (21),Yes (3),Yes (2),Varied,Yes,Yes,Kaiser: No,Premera (BCBS): No,UnitedHealth,34%,Kaiser,24%,Molina Healthcare of Washinton,51.39%,United Healthcare Community plan of Washington,12.86%,Kaiser,23%,Does not cover,Premera (BCBS),22%,Does not cover ,"
+
+"
+Virginia,"672,943","571,162",8.6%,"101,781",5.4%,"348,584",51.8%,"286,723",50.2%,"57,099",56.1%,"1,575,524","110,287",7%,Yes (21),"Yes (2)
+Varied (1)",Varied (2),Varied,Yes,Yes,Anthem: Yes,Cigna: Yes,Humana,38%,UnitedHealth,28%,Anthem HealthKeepers Plus (Elevance),30.10%,Virginia Premier,19.35%,Anthem,43%,"Anthem (VA) provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.",Cigna,14%,"Cigna provides coverage for codes 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Tennessee,"638,434","552,156",10.3%,"86,278",5.6%,"309,002",48.4%,"250,127",45.3%,"52,802",61.2%,"1,406,240","84,374",6%,Yes (21),Varied (3),Varied (2),Varied,Yes,No,BCBS (TN): No,Cigna: Yes,BCBS TN,26%,Humana ,25%,BlueCare,37.14%,UnitedHealthcare Community Plan of Tennessee,29.88%,BCBS TN,43%,Does not cover,Cigna,27%,"Cigna provides coverage for codes 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Arizona,"657,252","550,729",9.6%,"106,523",6.6%,"254,357",38.7%,"225,248",40.9%,"32,916",30.9%,"1,400,160","98,011",7%,"Yes (13)
+Varied (6)
+No (2)","Yes (1)
+Varied (2)",Varied (2),Varied,Yes,Yes,UnitedHealth: Yes,BCBS Arizona: No ,UnitedHealth ,47%,Humana ,18%,UnitedHealthcare Community Plan,23.31%,Mercy Care Plan (CVS Health),22.13%,UnitedHealth,29%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.",CVS Health,23%,Does not cover ,"
+
+"
+Indiana,"603,868","497,539",9.6%,"106,329",6.7%,"268,721",44.5%,"216,927",43.6%,"50,081",47.1%,"1,301,309","78,079",6%,Yes (21),Yes (3),Yes (2),Yes,Yes,Yes,Anthem: Not specified,UnitedHealth: Yes,UnitedHealth ,37%,Humana ,29%,Anthem Blue Cross Blue Shield (Elevance),44.31%,MDWise (McLaren Health Care),24.58%,Anthem ,56%,Not specified,UnitedHealth,15%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Wisconsin,"549,243","465,109",10.2%,"84,134",6.6%,"202,121",36.8%,"160,928",34.6%,"39,375",46.8%,"1,225,485","73,529",6%,Yes (21),Varied (3),Varied (2),Varied,Yes,Yes,UnitedHealth: Yes,Anthem: Not specified,UnitedHealth,43%,Humana ,13%,UnitedHealthcare Community Plan of Wisconsin,23.00%,Children's Community Health Plan,14.21%,UnitedHealth,25%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.",Anthem,20%,Not specified,"
+
+"
+Missouri,"533,158","441,777",9.3%,"91,381",6.6%,"291,637",54.7%,"247,395",56%,"46,604",51%,"1,263,819","75,829",6%,Yes (21),Yes (3),"Yes (1)
+Varied (1)",Yes,Yes,No,Anthem: Not specified,UnitedHealth: Yes,UnitedHealth ,44%,CVS Health,20%,Healthy Blue (Elevance),37.72%,Home State Health Plan (Centene),33.24%,Anthem,27%,Not specified,UnitedHealth,24%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Colorado,"520,580","434,782",9.6%,"85,798",6.9%,"198,341",38.1%,"153,913",35.4%,"40,411",47.1%,"961,593","57,696",6%,Yes (21),Yes (3),Yes (2),Yes,Yes,No,UnitedHealth: Yes,Anthem: Not specified,UnitedHealth,41%,Kaiser,26%,Denver Health and Hospital Authority,70.51%,Rocky Mountain Health Plans (UnitedHealth),29.49%,UnitedHealth,24%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.",Anthem,23%,Not specified,"
+
+"
+Maryland,"528,387","420,686",8.9%,"107,701",7.9%,"240,944",45.6%,"187,205",44.5%,"53,097",49.3%,"1,075,070","75,255",7%,"Yes (10)
+Varied (11)",Varied (3),Varied (2),Varied,Yes,No,CareFirst: Yes,Cigna: Yes,Kaiser,41%,UnitedHealth,15%,Priority Partners,23.75%,Amerigroup Community Care (Elevance),22.06%,CareFirst,47%,"CareFirst provides coverage for codes 99453, 99454, 99457, and 99458.",Cigna,15%,"Cigna provides coverage for codes 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Kentucky,"459,635","395,633",11.5%,"64,002",6.3%,"199,022",43.3%,"170,122",43%,"28,353",44.3%,"952,197","57,132",6%,"Yes (20)
+Varied (1)",Yes (3),Varied (2),Varied,Yes,No,Anthem: Not specified,Humana: No,Humana,50%,Anthem,23%,Wellcare of Kentucky (Centene),33.05%,Passport Health Plan (Molina),22.45%,Anthem,65%,Not specified,Humana,13%,Does not cover ,"
+
+"
+South Carolina,"473,991","385,741",9.4%,"88,250",7.9%,"178,221",37.6%,"140,410",36.4%,"37,330",42.3%,"1,133,973","68,038",6%,"Yes (10)
+Varied (11)",Yes (3),"Yes (1)
+Varied (1)",Yes,Yes,No,BCBS SC: No,Cigna: Yes,"UnitedHealth
+",37%,Humana ,36%,SelectHealth of SC (Independence Health Group),40.69%,Absolute Total Care (Centene),23.00%,BCBS SC,65%,Does not cover,Cigna,14%,"Cigna provides coverage for codes 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Minnesota,"437,751","369,238",8.5%,"68,513",5.2%,"190,860",43.6%,"162,465",44%,"28,981",42.3%,"614,598","36,876",6%,"Yes (15)
+Varied (6)",Varied (3),Varied (2),Varied,Yes,No,BCBS MN: Yes,Health Partners: ??,BCBS MN,30%,UCare,24%,UCare,37.49%,Blue Plus,29.33%,BCBS MN,46%,"BCBS MN provides coverage for codes 99453, 99454, 99457, and 99458.",HealthPartners,17%,,"
+
+"
+Oregon,"410,362","356,958",10.6%,"53,404",6.2%,"214,209",52.2%,"179,550",50.3%,"31,935",59.8%,"901,861","54,112",6%,"Yes (4)
+Varied (17)",Varied (3),Varied (2),Varied,Yes,Yes,Cambia: ??,Kaiser: Not specified,UnitedHealth,25%,Kaiser,17%,Health Share of Oregon,34.83%,Pacific Source Community Solutions - Marion Polk,11.16%,Cambia,23%,,Kaiser,21%,Not specified,"
+
+"
+Alabama,"437,111","341,720",9.0%,"95,391",8.5%,"214,185",49%,"142,497",41.7%,"60,860",63.8%,"1,070,474","74,933",7%,Yes (21),"Yes (2)
+No (1)",Yes (2),Yes,Yes,No,BCBS (AL): No,UnitedHealth: Yes,Humana,31%,UnitedHealth,27%,Unavailable,Unavailable,Unavailable,Unavailable,BCBS AL,87%,Does not cover,UnitedHealth,5%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Oklahoma,"409,297","322,759",10.8%,"86,538",9.0%,"136,705",33.4%,"107,479",33.3%,"28,904",33.4%,"763,654","53,456",7%,Yes (21),Yes (3),Yes (2),Yes,Yes,No,BCBS (HCSC): Yes,UnitedHealth: Yes,UnitedHealth,43%,Humana ,28%,Unavailable,Unavailable,Unavailable,Unavailable,HCSC (BCBS),57%,BCBS OK covers telemedicine services included on the CMS permanent and temporary telehealth code list as well as the AMA telehealth code list. Both lists include all RPM CPT codes.,UnitedHealth,15%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Connecticut,"369,245","299,193",10.6%,"70,052",9.6%,"151,391",41%,"102,025",34.1%,"37,408",53.4%,"702,439","49,171",7%,Yes (21),"Yes (2)
+No (1)",Yes (2),Yes,Yes,No,Anthem: Not specified,Cigna: Yes,UnitedHealth,47%,CVS Health,18%,Unavailable,Unavailable,Unavailable,Unavailable,Anthem,37%,Not specified,Cigna,19%,"Cigna provides coverage for codes 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Louisiana,"348,185","276,711",7.8%,"71,474",6.6%,"160,165",46%,"123,967",44.8%,"35,451",49.6%,"893,631","44,682",5%,"Yes (20)
+Varied (1)",Yes (3),Yes (2),Varied,Yes,Yes,BCBS (LA): No,UnitedHealth: Yes,Humana,52%,UnitedHealth,28%,Louisiana Healthcare Connections (Centene),30.23%,UnitedHealthcare Community Plan of Louisiana,28.57%,LA Health Service and Indemnity (BCBS),67%,Does not cover,UnitedHealth,15%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Utah,"305,550","249,663",10.8%,"55,887",5.9%,"158,581",51.9%,"125,830",50.4%,"31,744",56.8%,"427,555","29,929",7%,"Yes (11)
+Varied (10)",Yes (3),Yes (2),Yes,Yes,No ,Select Health: No,Regence (BCBS): ??,UnitedHealth,54%,Intermountain,17%,SelectHealth  ,42.08%,Molina  ,24.83%,SelectHealth,64.24%,"SelectHealth provides coverage for codes 99457, 99458, and 99091.",Regence BCBS of Utah,13.27%%,Does not cover,"
+
+"
+Nevada,"268,163","230,431",9.5%,"37,732",5.4%,"125,232",46.7%,"118,672",51.5%,"10,037",26.6%,"561,939","39,336",7%,"Yes (12)
+Varied (9)",Yes (3),"Yes (1)
+Varied (1)",Varied,Yes,No,UnitedHealth: Yes,Anthem: Not specified,UnitedHealth,40%,Humana ,29%,Health Plan Nevada (UnitedHealth),38.85%,Anthem Blue Cross Blue Shield (Elevance),35.50%,UnitedHealth,37%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.",Anthem,24%,Not specified,"
+
+"
+Iowa,"261,322","220,085",9.1%,"41,237",5.6%,"108,710",41.6%,"86,053",39.1%,"21,485",52.1%,"646,874","32,344",5%,Yes (21),Yes (3),"Yes (1)
+Varied (1)",Varied,Yes,No,Wellmark (BCBS): No,UnitedHealth: Yes,UnitedHealth,45%,CVS Health,31%,Amerigroup Iowa (Elevance),56.47%,Iowa Total Care (Centene),43.53%,Wellmark (BCBS),48%,Does not cover,UnitedHealth,29%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Kansas,"271,151","216,312",9.8%,"54,839",7.8%,"141,541",52.2%,"110,968",51.3%,"29,723",54.2%,"555,807","33,348",6%,Yes (21),Yes (3),Varied (2),Yes,Yes,No,BCBS: No,CVS Health: Not Specified ,CVS Health,35%,UnitedHealth,30%,UnitedHealthcare Community Plan of Kansas,36.62%,Sunflower Health Plan (Centene),34.62%,BCBS KS,43%,Does not cover,CVS Health,14%,Not specified,"
+
+"
+Arkansas,"270,128","210,340",9.1%,"59,788",8.5%,"130,202",48.2%,"104,118",49.5%,"27,144",45.4%,"653,277","32,664",5%,"Yes (19)
+No (2)",Yes (3),"Yes (1)
+No (1)",Yes,Yes,No,BCBS: Yes,UnitedHealth: Yes,UnitedHealth,35%,Humana ,27%,Empower Healthcare Solutions (Anthem),42.45%,Summit Community Care (Anthem),31.05%,BCBS AR,46%,"BCBS AR provides coverage for codes 99453, 99454, 99457, and 99458.",UnitedHealth,20%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Mississippi,"271,942","201,273",8.9%,"70,669",10.2%,"140,322",51.6%,"98,825",49.1%,"40,635",57.5%,"1,068,551","53,428",5%,Yes (21),Yes (3),Yes (2),Yes,Yes,Not specified ,BCBS (MS): Yes,UnitedHealth: Yes,Humana,51%,Centene,21%,Magnolia Health (Centene),40.85%,UnitedHealthcare Community Plan of Mississippi,38.93%,BCBS MS,55%,"BCBS MS provides coverage for codes 99453, 99454, 99457, 99458, and 99091.",UnitedHealth,17%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+West Virginia,"196,912","175,011",12.4%,"21,901",6.1%,"90,776",46.1%,"85,055",48.6%,"8,147",37.2%,"444,287","26,657",6%,Yes (21),Yes (3),"Yes (1)
+Varied (1)",Yes,Yes,No,Highmark (BCBS): No,Cigna: Yes,Humana,60%,CVS Health,21%,Unicare (Elevance),37.14%,Aetna Better Health of West Virginia (CVS Health),33.49%,Highmark (BCBS),53%,Does not cover,Cigna,13%,"Cigna provides coverage for codes 99453, 99454, 99457, 99458, and 99091.","
+
+"
+New Mexico,"206,667","162,657",10.1%,"44,010",9.3%,"83,907",40.6%,"58,882",36.2%,"24,821",56.4%,"439,390","30,757",7%,"Yes (12)
+Varied (9)",Yes (3),Varied (2),Varied,Yes,No,BCBS (NM): Yes ,Presbyterian: No,Prebyterian ,29%,UnitedHealth,27%,Presbyterian Health Plan,52.79%,Blue Cross Blue Shield of New Mexico,36.47%,HCSC (BCBS),47%,BCBS NM covers telemedicine services included on the CMS permanent and temporary telehealth code list as well as the AMA telehealth code list. Both lists include all RPM CPT codes.,Presbyterian,21%,Does not cover,"
+
+"
+Idaho,"150,388","127,406",9.4%,"22,982",4.9%,"86,172",57.3%,"71,220",55.9%,"14,180",61.7%,"361,623","21,697",6%,Yes (21),Yes (3),Yes (2),Yes,Yes,No,Blue Cross of  Idaho: Not Specified,Cambia: ??,Blue Cross of Idaho (BC of ID),34%,UnitedHealth,31%,Unavailable,Unavailable,Unavailable,Unavailable,Blue Cross of Idaho,46%,Not specified,Cambia,13%,Not specified,"
+
+"
+New Hampshire,"143,521","127,113",11.5%,"16,408",6.4%,"75,492",52.6%,"63,557",50%,"10,304",62.8%,"316,557","22,159",7%,"Yes (16)
+Varied (5)",Yes (3),Yes (2),Varied,Yes,No,Anthem: Not specified,Cigna: Yes,UnitedHealth ,39%,CVS Health,18%,Well Sense Health Plan (BMC HealthNet Plan),47.08%,New Hampshire Healthy Families (Centene),40.90%,Anthem,43%,Not specified,Cigna,20%,"Cigna provides coverage for codes 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Maine,"132,499","115,621",10.6%,"16,878",6.7%,"61,612",46.5%,"51,336",44.4%,"9,367",55.5%,"356,229","21,374",6%,Yes (21),Yes (3),Yes (2),Yes,Yes,No,Anthem: Not specified,Point32Health: Not specified,Martin’s Point HC,33%,UnitedHealth,19%,Unavailable,Unavailable,Unavailable,Unavailable,Anthem,50%,Not specified,Point32Health,15%,Not Specified,"
+
+"
+Nebraska,"134,868","114,104",7.8%,"20,764",4.3%,"57,993",43%,"56,367",49.4%,"4,796",23.1%,"360,404","18,020",5%,Yes (21),Varied (3),Varied (2),Varied,Yes,No,BCBS (NE): No,UnitedHealth: Yes,UnitedHealth ,59%,CVS Health,19%,UnitedHealthcare Community Plan of Nebraska,34.13%,Nebraska Total Care (Centene),34.11%,BCBS NE,42%,Does not cover,UnitedHealth,25%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Rhode Island,"118,643","103,190",12.1%,"15,453",7.4%,"60,864",51.3%,"53,762",52.1%,"7,464",48.3%,"228,146","20,533",9%,"Yes (13)
+Varied (8)",Yes (3),Yes (2),Yes,Yes,No,BCBS (RI): No,UnitedHealth: Yes,BCBS RI,60%,UnitedHealth,36%,Neighborhood Health Plan of Rhode Island,62.98%,UnitedHealthcare Community Plan of Rhode Island,32.78%,BCBS RI,42%,Does not cover ,UnitedHealth,28%,"UnitedHealthcare provides coverage for codes 98976, 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Hawaii,"115,763","96,890",8.8%,"18,873",6.2%,"50,588",43.7%,"43,310",44.7%,"7,832",41.5%,"288,450","20,192",7%,"Yes (7)
+Varied (14)",Varied (3),Varied (2),Varied,Yes,No,HMSA (BCBS): No,Kaiser: ??,HMSA (BCBS HI),27%,UnitedHealth,27%,Hawaii Medical Service Association,50.09%,AlohaCare,19.47%,HMSA (BCBS HI),64%,Does not cover,Kaiser,20%,,"
+
+"
+Montana,"104,361","89,552",10.6%,"14,809",6.3%,"59,695",57.2%,"48,179",53.8%,"10,367",70%,"244,107","14,646",6%,Yes (21),Yes (3),Yes (2),Yes,Yes,No,HCSC (BCBS): No,Cigna: Yes,Humana,64%,HCSC (BCBS),28%,Unavailable,Unavailable,Unavailable,Unavailable,HCSC (BCBS),41%,Does not cover,Cigna,30%,"Cigna provides coverage for codes 99453, 99454, 99457, 99458, and 99091.","
+
+"
+Delaware,"103,424","83,428",10.8%,"19,996",9.6%,"52,333",50.6%,"39,461",47.3%,"12,318",61.6%,"222,814","15,597",7%,"Yes (19)
+Varied (1)
+No (1)","Yes (2)
+Varied (1)",Yes (2),Yes,Yes,No,Highmark: No,CVS Health: Not Specified ,CVS Health,38%,UnitedHealth,28%,Highmark Health Options of Delaware,63.50%,AmeriHealth Caritas of Delaware,36.50%,Highmark,49%,Does not cover,CVS Health,33%,Not specified,"
+
+"
+Vermont,"62,969","54,781",10.8%,"8,188",7.0%,"32,681",51.9%,"26,733",48.8%,"5,478",66.9%,"155,077","9,305",6%,Yes (21),Yes (3),"Yes (1)
+No (1)",Yes,Yes,No,BCBS (VT): No,Cigna: Yes,UnitedHealth ,76%,MVP Health Care,16%,Unavailable,Unavailable,Unavailable,Unavailable,BCBS VT ,53%,Does not cover,Cigna,26%,"Cigna provides coverage for codes 99453, 99454, 99457, 99458, and 99091.","
+
+"
+South Dakota,"65,673","53,990",8.1%,"11,683",5.3%,"31,260",47.6%,"24,188",44.8%,"7,617",65.2%,"184,567","9,228",5%,Yes (21),Yes (3),Yes (2),Yes,Yes,No,Avera Health: No,Wellmark (BCBS): No,Medica,60%,Humana ,22%,Unavailable,Unavailable,Unavailable,Unavailable,Avera Health,35%,Does not cover,Wellmark (BCBS),30%,Does not cover,"
+
+"
+North Dakota,"60,282","49,883",8.6%,"10,399",5.6%,"21,400",35.5%,"16,312",32.7%,"4,794",46.1%,"137,155","8,229",6%,Yes (21),Yes (3),Yes (2),Yes,Yes,No,BCBS (ND): No,Sanford: ??,Medica,73%,Humana ,14%,ND Medicaid Expansion MCO,100.00%,Unavailable,Unavailable,BCBS ND,50%,Does not cover,Sanford,31%,,"
+
+"
+Alaska,"58,038","48,173",8.9%,"9,865",5.5%,"38,827",66.9%,"32,083",66.6%,"6,718",68.1%,"108,116","5,406",5%,Yes (21),Yes (3),Yes (2),Yes,Yes,No,CVS Health: Not Specified ,Premera (BCBS): Not specified,N/A,N/A,N/A,N/A,Unavailable,Unavailable,Unavailable,Unavailable,CVS Health,47%,Not specified,Premera  ,46%,Not specified,"
+
+"
+Wyoming,"53,064","44,192",10.0%,"8,872",6.7%,"34,386",64.8%,"25,145",56.9%,"7,249",81.7%,"117,393","5,870",5%,Yes (21),Yes (3),Yes (2),Yes,Yes,No,Cigna: Yes,BCBS WY: ??,UnitedHealth,67%,CVS Health,23%,Unavailable,Unavailable,Unavailable,Unavailable,Cigna,45%,"Cigna provides coverage for codes 99453, 99454, 99457, 99458, and 99091.",BCBS WY,25%,,"
+
+"
